@@ -116,3 +116,7 @@ Check the repository's `LICENSE` file for reuse terms. **If no license is provid
 ---
 
 *Pillararene 3D Chirality Explorer · Phase 1 physical–digital educational platform*
+
+<div align="center">
+  <img src="./P5-L.png" alt="PillarFlip logo" width="220">
+</div>
